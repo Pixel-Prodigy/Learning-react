@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.23"
+  },
+  "dependencies": {
+    "@heroui/react": "^2.6.13"
+  }
+}
